@@ -17,8 +17,5 @@
 
 -------------------------------
 # Now Learn [[React]]
-# YOOOOO Do This:
-## 1) [Ultimate TickCross](https://www.youtube.com/watch?v=37PC0bGMiTI)
-## 2) Are You Gay Website?
 
 

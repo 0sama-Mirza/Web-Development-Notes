@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "NPM.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e39991575230853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,12 +168,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1a63f50d1360280",
+  "active": "1e39991575230853",
   "lastOpenFiles": [
-    "Learning Web Development.md",
-    "React.md",
-    "Readme.md",
     "NPM.md",
+    "React.md",
+    "Learning Web Development.md",
+    "Readme.md",
     "Javascript.md",
     "HTML.md",
     "CSS.md",
