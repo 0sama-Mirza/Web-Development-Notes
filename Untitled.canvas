@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"HTML.md","id":"048bb29ccf916565","x":185,"y":-22,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"CSS.md","id":"b710af4ad3619251","x":-615,"y":-22,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Javascript.md","id":"af2466d2c9f34bc1","x":-215,"y":-1080,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Learning Web Development.md","id":"769f3b83d6fca05b","x":-215,"y":-560,"width":400,"height":400,"color":"6"},
+		{"type":"file","file":"DOM.md","id":"b3be0f04f5fd4155","x":-720,"y":-680,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"NPM.md","id":"daf37d3a8fe9ef59","x":360,"y":-680,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"React.md","id":"cc9c591b3f7d0db6","x":-215,"y":-1560,"width":400,"height":400,"color":"#782cc3"}
+	],
+	"edges":[
+		{"id":"de1bc8355bdc638c","fromNode":"769f3b83d6fca05b","fromSide":"top","toNode":"af2466d2c9f34bc1","toSide":"bottom"},
+		{"id":"0a48fea2abcd3c98","fromNode":"769f3b83d6fca05b","fromSide":"bottom","toNode":"b710af4ad3619251","toSide":"top"},
+		{"id":"fa4e5329084991fc","fromNode":"769f3b83d6fca05b","fromSide":"bottom","toNode":"048bb29ccf916565","toSide":"top"},
+		{"id":"af2450a609aeeb06","fromNode":"af2466d2c9f34bc1","fromSide":"left","toNode":"b3be0f04f5fd4155","toSide":"top"},
+		{"id":"2a375b0222b623e8","fromNode":"af2466d2c9f34bc1","fromSide":"right","toNode":"daf37d3a8fe9ef59","toSide":"top"},
+		{"id":"c513b51ad08aaf62","fromNode":"af2466d2c9f34bc1","fromSide":"top","toNode":"cc9c591b3f7d0db6","toSide":"bottom"}
+	]
+}
