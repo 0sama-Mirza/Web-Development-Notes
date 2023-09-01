@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Web Development.md",
+                "file": "HTML.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Web Development.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Web Development.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Web Development.md"
+                "file": "HTML.md"
               }
             }
           },
@@ -137,12 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,14 +156,14 @@
   },
   "active": "d1a63f50d1360280",
   "lastOpenFiles": [
-    "Javascript.md",
-    "CSS.md",
-    "HTML.md",
-    "Learning Web Development.md",
     "React.md",
+    "Learning Web Development.md",
+    "CSS.md",
+    "Untitled.canvas",
+    "Javascript.md",
+    "HTML.md",
     "Readme.md",
     "NPM.md",
-    "Untitled.canvas",
     "DOM.md"
   ]
 }

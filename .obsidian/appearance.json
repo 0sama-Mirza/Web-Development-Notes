@@ -1,3 +1,5 @@
 {
-  "accentColor": "#ff7300"
+  "accentColor": "#ff7300",
+  "theme": "system",
+  "cssTheme": "Shimmering Focus"
 }
