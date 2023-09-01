@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "Learning Web Development.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be924b6982c0fd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.md",
+                "file": "Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "Javascript.md"
               }
             }
           },
@@ -155,16 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1a63f50d1360280",
+  "active": "be924b6982c0fd81",
   "lastOpenFiles": [
-    "Readme.md",
-    "React.md",
     "CSS.md",
+    "HTML.md",
     "Learning Web Development.md",
+    "React.md",
+    "Readme.md",
     "NPM.md",
     "Untitled.canvas",
     "DOM.md",
-    "Javascript.md",
-    "HTML.md"
+    "Javascript.md"
   ]
 }
