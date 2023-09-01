@@ -4,20 +4,135 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	
-	<meta property="og:title" content="0sama's Website!" />
-	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/0sama-Mirza/0sama-Mirza.github.io/main/images/Backgrounds/Website-Screenshot.png" />
-	<meta property="og:url" content="https://0sama-mirza.github.io/" />
-	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:image" content="https://raw.githubusercontent.com/0sama-Mirza/0sama-Mirza.github.io/main/images/Backgrounds/Website-Screenshot.png" />
-	<meta property="og:description" content="Osama's Personal Useless Website" />
-
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="icon" type="image/x-icon" href="[images/icons/favicon-moving.ico](view-source:https://0sama-mirza.github.io/images/icons/favicon-moving.ico)">
 	<style>
+			body{
+			    background-color: rgba(15, 15, 15, 0.993);
+			    background-repeat: no-repeat;
+			    background-position: center top;
+			    background-size:cover;
+		    }
+			h1{
+			    /* color: rgb(182, 79, 10);  */
+			    color: rgb(228, 89, 64);
+			    font-size: 40px; 
+			    text-align: center;
+			    margin-bottom: 0.1%;
+			}
+			.int{
+			    text-align: center;
+			    color: rgb(204, 185, 14);
+			    /* color: rgb(255, 230, 0); */
+			    font-size: 25px; 
+			    margin-top: 40px;
+			    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+			}
+			 
+			.flexposition{
+			    display: flex;
+			    justify-content: center;
+			    flex-direction: row;
+			    align-items: flex-start;
+			    /* justify-content: space-evenly; */
+			    flex-wrap: wrap;
+			    gap:20px;
+			}
+			
+			.intro,.MainNoticeBoard{
+			    max-width: 600px;
+			    margin-top: 0.5%; 
+			    border-radius: 40px;
+			    border: 1px solid rgba(228, 89, 64, 1);
+			    padding-left: 15px;
+			    padding-bottom: 15px;
+			}
+			.intro{
+			    border-bottom: 0;
+			}
+			.menu{
+			    width: 250px;
+			    margin-top: 0.2%; 
+			    border-radius: 40px;
+			    border: 1px solid rgb(228, 89, 64, 1);
+			    padding-left: 15px;
+			}
+			.Cool_Websites {
+			    display: flex;
+			    flex-wrap: wrap;
+			    gap: 1%;
+			    margin-left: 10%;
+			    margin-top: 1%;
+			}
+			
+			.linxmenu{
+			    width: 61%;
+			    margin-left: auto;
+			    margin-right: auto;
+			}
+			.before{
+			    color: whitesmoke;
+			}
+			p{
+			    color:whitesmoke; 
+			    font-size:medium;
+			}
+			li{
+			    color: tomato;
+			}
+			
+			.listhead{
+			    font-size: larger;
+			    font-style: italic;
+			    color: rgb(255, 230, 0);
+			    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+			    
+			}
+			code {
+			    /* font-family: Consolas,"courier new"; */
+			    color: rgb(0, 255, 0);
+			    padding: 2px;
+			    font-size: 105%;
+			}
+			
+			.items{
+			    color: tomato;
+			    font-size:medium;
+			    margin-top: -25px;
+			}
+			.keyboard{
+			    max-width: 100%;
+			    margin-left: auto;
+			    margin-right: auto;
+			    border-radius: 10px;
+			    display: block
+			}
+			
+			.menuitem{
+			    /* font-size: larger; */
+			    color: rgb(0, 255, 0);
+			}
+			.main{
+			    color: white;
+			    font-size: 22px;
+			    text-align: start;
+			    margin-top: -0.1px;
+			}
+			.maintopics{
+			    padding-left: 20px;
+			    max-height: 30px;
+			    border: 1px solid tomato;
+			    background-image: url(images/Backgrounds/num.gif);
+			    margin-left: -2.5%;
+			}
+			.top-image:hover{
+			opacity: 0;
+			}
+			.myButton{
+			    margin-left: 8%;
+			}
 	</style>
 	<title>Osama's Website!</title>
 </head>
@@ -26,7 +141,7 @@
 		<header>
 			<h1>0sama's Website!</h1>
 			<div>
-				<video class="keyboard" autoplay loop muted><source src="[images/Backgrounds/anime-keyboard-typing-keyboard-anime.mp4](view-source:https://0sama-mirza.github.io/images/Backgrounds/anime-keyboard-typing-keyboard-anime.mp4)">alt="Keyboard"</video>
+<video class="keyboard" autoplay loop muted><source src="[images/Backgrounds/anime-keyboard-typing-keyboard-anime.mp4](https://0sama-mirza.github.io/images/Backgrounds/anime-keyboard-typing-keyboard-anime.mp4)">alt="Keyboard"</video>
 			</div>
 		</header>
 		<div class="flexposition">
@@ -45,18 +160,9 @@
 							<h3 class="main">Click Them!</h3>
 						</div>
 						<div class="myButton">
-
-							<!-- Template for an Image Button -->
-							<!-- The Top Part Is the image shown when it will be hovered -->
-							<!-- I can Change the psition of the icon by the top image's "margin-left" property -->
-							<!-- This will displace all the images that follows. -->
-							<!-- So in other words this margin tells the browser where the first images should be placed -->
 							<img class="bottom-image" src="[images/icons/robotHi.png](view-source:https://0sama-mirza.github.io/images/icons/robotHi.png)" alt="Hi!" width="12%;">
 							<a href="[/Robot-Friend/index.html](view-source:https://0sama-mirza.github.io/Robot-Friend/index.html)" target="_blank">
 							<img class="top-image" src="[images/icons/robot.png](view-source:https://0sama-mirza.github.io/images/icons/robot.png)" alt="Yo!" width="13%" style="margin-left: -12.83%;"></a>
-							<!-- The Bottom Image is the image shown befor hover. Its margins are set in a way where it will cover the image before it  -->
-
-							<!-- Now The margins after the first images act as the size of gap between the previous image -->
 							<img src="[images/icons/the-rock.png](view-source:https://0sama-mirza.github.io/images/icons/the-rock.png)" alt="Hmmmm" width="15%" style="margin-left: 3%;">
 							<a href="[https://asnan111.github.io/CAED-Lab-1/IMG_20221201_081910.jpg](view-source:https://asnan111.github.io/CAED-Lab-1/IMG_20221201_081910.jpg)">
 							<img class="top-image" src="[images/icons/vecteezy_under-18-forbidden-round-icon-sign-vector-illustration_5476277.jpg](view-source:https://0sama-mirza.github.io/images/icons/vecteezy_under-18-forbidden-round-icon-sign-vector-illustration_5476277.jpg)" alt="18+" width="16%" style="margin-left: -16%;"></a>
