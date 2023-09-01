@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
-                "mode": "source",
+                "file": "CSS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.md",
+                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "CSS.md"
               }
             }
           },
@@ -156,13 +156,13 @@
   },
   "active": "d1a63f50d1360280",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "React.md",
+    "Learning Web Development.md",
     "NPM.md",
+    "React.md",
+    "Untitled.canvas",
     "DOM.md",
     "Javascript.md",
     "CSS.md",
-    "HTML.md",
-    "Learning Web Development.md"
+    "HTML.md"
   ]
 }
